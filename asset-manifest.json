@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mtbframeszie/static/css/main.7370cfe2.chunk.css",
+    "main.js": "/mtbframeszie/static/js/main.355067d6.chunk.js",
+    "main.js.map": "/mtbframeszie/static/js/main.355067d6.chunk.js.map",
+    "runtime-main.js": "/mtbframeszie/static/js/runtime-main.45dd4a98.js",
+    "runtime-main.js.map": "/mtbframeszie/static/js/runtime-main.45dd4a98.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/mtbframeszie/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4b7fb635.chunk.js": "/mtbframeszie/static/js/2.4b7fb635.chunk.js",
+    "static/js/2.4b7fb635.chunk.js.map": "/mtbframeszie/static/js/2.4b7fb635.chunk.js.map",
+    "static/js/3.6c49eb25.chunk.js": "/mtbframeszie/static/js/3.6c49eb25.chunk.js",
+    "static/js/3.6c49eb25.chunk.js.map": "/mtbframeszie/static/js/3.6c49eb25.chunk.js.map",
+    "index.html": "/mtbframeszie/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/mtbframeszie/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.7370cfe2.chunk.css.map": "/mtbframeszie/static/css/main.7370cfe2.chunk.css.map",
+    "static/js/2.4b7fb635.chunk.js.LICENSE.txt": "/mtbframeszie/static/js/2.4b7fb635.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45dd4a98.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4b7fb635.chunk.js",
+    "static/css/main.7370cfe2.chunk.css",
+    "static/js/main.355067d6.chunk.js"
+  ]
+}
